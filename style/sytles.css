@@ -1,0 +1,38 @@
+
+.contener {
+display: inline;
+text-align: center;
+background-color: rgb(204, 155, 155);
+
+
+}
+
+
+.h1{
+
+background-color: rgb(99, 99, 233);
+display: block;
+text-align: center;
+
+}
+
+.button-rouge{
+
+background-color: rgb(37, 52, 65);
+color: rgb(253, 253, 253);
+padding: 10px 20px;
+border: 5px;
+border-color: darkkhaki;
+cursor: pointer;
+width: 500px;
+height: 250px;
+border-radius: 50%;
+font-size: 40%;
+
+}
+
+.button-rouge:hover {
+
+    background-color: red;
+    
+    }
